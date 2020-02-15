@@ -1,7 +1,7 @@
 {
-  "name": "pokemon",
+  "name": "react-pokemon",
   "version": "1.0.0",
-  "description": "Just Basic React with little real case",
+  "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
